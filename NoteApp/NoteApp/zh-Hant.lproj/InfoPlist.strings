@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  NoteApp
+  中文
+  Created by Yancheng Lin on 2021/7/12.
+  
+*/
+
+"CFBundleDisplayName"="筆記本";
+NSUserTrackingUsageDescription="我們想要啟用廣告追蹤以提供更好的廣告";

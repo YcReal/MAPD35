@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  NoteApp
+  中文
+  Created by Yancheng Lin on 2021/7/12.
+  
+*/
+"new.note" = "新的筆記本";
+"List" = "筆記清單";

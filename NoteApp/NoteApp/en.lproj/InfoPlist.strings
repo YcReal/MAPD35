@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  NoteApp
+  英文
+  Created by Yancheng Lin on 2021/7/12.
+  
+*/
+"CFBundleDisplayName"="Note App";
+NSUserTrackingUsageDescription="This identifier will be used to deliver personalized ads to you.";
