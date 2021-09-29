@@ -27,7 +27,7 @@ class ListViewController: UIViewController, UITableViewDataSource, UITableViewDe
     
     required init?(coder: NSCoder) {
         super.init(coder: coder)
-        /*
+        /*112233
         //準備資料，10筆假的資料，『 按照順序 』顯示在畫面上
         for i in 0..<10 {
             let note = Note()
